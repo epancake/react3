@@ -8,7 +8,7 @@ import { Preview } from './components/Preview.js'
 
 class App extends Component {
   state = {listing: [],
-    message: "hi"
+    message: ""
   }
 
   setMessage = (event) => {
